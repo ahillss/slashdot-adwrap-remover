@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Slashdot Adwrap Remover",
   "description": "Removes the annoying ad bar that covers half the screen",
   "permissions": ["tabs", "*://*.slashdot.org/*"],
