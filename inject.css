@@ -1,1 +1,7 @@
-.adwrap-unviewed, .adwrap-sticky {visibility: hidden;}
+.adwrap-unviewed .adwrap-sticky .rail-right .stackcommerce-widget aside.grid_24 section.grid_24 {display: none !important;}
+
+#slashboxes {display: none !important;}
+#stackcommerce-adwrap {display: none !important;}
+#announcement {display: none !important;}
+
+* {margin-left: 0 !important; margin-right: 0 !important;}
